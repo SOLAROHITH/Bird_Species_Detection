@@ -1,4 +1,4 @@
-**Title: Bird Species Detection**
+##**Title: Bird Species Detection**
 Abstract: 
 Fine-grained image classification is a challenging task in computer vision, requiring models to distinguish subtle visual differences between similar object categories. The CUB_200_2011 dataset, comprising 11,788 images of 200 bird species, serves as a standard benchmark for evaluating fine-grained classification algorithms. In this research, we explore the effectiveness of the Residual Network (ResNet) architecture for fine-grained bird classification on the CUB_200_2011 dataset. We present an in-depth analysis of the experimental setup, model training, and evaluation. Our findings showcase the remarkable performance of ResNet models, highlighting their ability to achieve state-of-the-art accuracy in fine-grained bird classification.
 1. Introduction
